@@ -1,0 +1,2 @@
+﻿  Main.cpp
+C:\Users\thangvuong\source\repos\Project01_CppAdvance_VuongVanThang\Main.cpp(213): error C4700: uninitialized local variable 'proEmployee' used
